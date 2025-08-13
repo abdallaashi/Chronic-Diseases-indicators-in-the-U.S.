@@ -33,3 +33,4 @@ the following Python libraries were used:
 - pandas
 - mataplotlib
 - seaborn
+- numpy
